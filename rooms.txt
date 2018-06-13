@@ -1,0 +1,54 @@
+Orange_Hall  460 lecture
+
+3.132        34  laboratory
+
+3.143        34  laboratory
+
+3.302        90  tutorial
+
+3.303        50  tutorial
+
+3.309        50  tutorial
+
+3.316        50  tutorial
+
+3.317        50  tutorial
+
+3.322        50  tutorial
+
+3.407        50  tutorial
+
+3.415        50  tutorial
+
+3.416        50  tutorial
+
+3.E217       38  complab
+
+3.E220       105  tutorial
+3.E221       63  tutorial
+
+3.E223       70  tutorial
+
+3.E224       105  tutorial
+
+3.E227       38  complab
+
+6.112        43  laboratory
+
+6.154        50  laboratory
+
+6.307        38  laboratory
+
+6.327        34  laboratory
+
+6.407        30  laboratory
+
+6.408        40  laboratory
+
+6.422        58  laboratory
+
+6.427        50  laboratory
+
+6.522        58  complab
+
+7.322        35  complab

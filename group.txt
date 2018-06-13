@@ -1,0 +1,6 @@
+8_year:
+Aisultan1 47
+Aisultan 45
+1_year:
+G1 35
+G2 50

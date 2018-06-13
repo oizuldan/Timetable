@@ -1,0 +1,30 @@
+--------
+List of courses for 8_year Aisultan1:
+
+Ben_232_EngineeringLKDJFSDL | Aisultan_Kassenov
+    lecture: Orange_Hall Monday (14:00-16:00)
+    tutorial: 3.302 Monday (09:00-11:00)
+    laboratory: 6.154 Monday (09:00-11:00)
+
+--------
+List of courses for 8_year Aisultan:
+
+Ben_232_EngineeringLKDJFSDL | Aisultan_Kassenov
+    lecture: Orange_Hall Monday (14:00-16:00)
+    tutorial: 3.302 Monday (11:00-13:00)
+    laboratory: 6.154 Monday (11:00-13:00)
+
+--------
+List of courses for 1_year G1:
+
+BENG_117_Engineering_Mechanics | Anatoli_Vakhguelt
+    lecture: Orange_Hall Monday (09:00-11:00)
+    tutorial: 3.302 Monday (14:00-16:00)
+
+--------
+List of courses for 1_year G2:
+
+BENG_117_Engineering_Mechanics | Anatoli_Vakhguelt
+    lecture: Orange_Hall Monday (09:00-11:00)
+    tutorial: 3.302 Monday (14:00-16:00)
+
