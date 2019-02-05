@@ -10,6 +10,7 @@ Just clone this repository to your local machine
 #### There are 3 input files, let's go through them.
 
 First one is "data.txt":
+
 This .txt file contains all the data about courses, professsors, faculties and corresponding class types.
 Here you need to need to use underscore instead of spaces and write courses, professors, faculty and class types separetly.
 Also, when specifying class types:
@@ -17,10 +18,12 @@ If there are 3 class types provided by the course like lecture, tutorial and lab
 If there is no tutorials then use underscore "_" instead. Example: L C _
 
 Second one is "group.txt":
+
 Here you need firstly write faculty with semicolon in the end (compulsory!).
 Afterwards, you need to specify group names as (G1, G2, etc.) and capacity of these groups. Example: G1 30
 
 Third one is "rooms.txt":
+
 Here you write room name, capacity and type of the room. Example: 
 Orange_Hall 460 lecture (notice undersore instead of spacing)
 3.302 90 tutorial
